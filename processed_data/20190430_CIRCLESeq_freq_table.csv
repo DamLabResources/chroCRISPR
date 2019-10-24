@@ -1,0 +1,11 @@
+target_name,0,1,2,3,4,5,6
+HEK293_Adli_site1,1,0,1,9,17,18,5
+HEK293_Adli_site_2,1,0,1,13,21,5,1
+HEK293_Adli_site_3,1,0,2,10,26,44,26
+HEK293_combined_Adli_site_4,1,0,13,100,352,385,160
+U2OS_combined_VEGFA_site_2,1,0,6,46,254,558,816
+U2OS_combined_VEGFA_site_3,1,1,15,167,371,205,40
+U2OS_exp2_EMX1,1,0,1,11,26,26,4
+U2OS_exp2_FANCF,1,0,1,10,18,16,4
+U2OS_exp2_RNF2,1,0,1,0,4,1,1
+U2OS_exp2_VEGFA_site_1,1,1,3,15,59,124,113

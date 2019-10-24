@@ -1,0 +1,9 @@
+HEK293T
+files: ENCFF500HTP, ENCFF839LCK
+pearsonr: 0.57505
+t_test_pvalue: 6.96e-99
+
+U2OS
+files: SRR4413990, SRR4413991
+pearsonr: 0.61638
+t_test_pvalue: 2.877e-277

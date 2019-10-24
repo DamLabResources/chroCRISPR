@@ -1,0 +1,8 @@
+ipympl
+matplotlib_venn
+ruffus
+shlex
+trim_galore
+bwa
+sambamba
+bedtools
